@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My Site",
+    "name": "gyware",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -25,7 +25,7 @@
         "display4Size": 1,
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": true
+        "isScrollToTopButton": false
       },
       "additionalSetColors": [
         "#54cc14",
